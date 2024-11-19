@@ -4,7 +4,7 @@ System.out.println(s);
 
 
 StringBuffer sb = new StringBuffer("komal");
-StringBuffer s= sb.reverse();
+thikomal makke at post darfa ingBuffer s= sb.reverse();
 System.out.println(s);
 
 String rev ="";
